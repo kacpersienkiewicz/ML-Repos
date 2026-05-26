@@ -1,1 +1,1 @@
-Poking around the famous (Wine Quality)[https://archive.ics.uci.edu/dataset/186/wine+quality] dataset. I use a few methods such as K-Neighbors Classifier to create a model to predict whether a wine will be red or white.
+Poking around the famous [Wine Quality]([https://archive.ics.uci.edu/dataset/186/wine+quality) dataset. I use a few methods such as K-Neighbors Classifier to create a model to predict whether a wine will be red or white.
